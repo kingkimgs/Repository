@@ -27,7 +27,7 @@ public class GameActivity extends Activity {
 	Timer progresTimer;
 	int s = 100;
 	int m = 100;
-	int n = 1;
+	int n = 100;
 	clickListener listener = new clickListener();
 
 	protected void onCreate(Bundle savedInstanceState) {
