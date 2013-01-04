@@ -25,7 +25,7 @@ public class GameActivity extends Activity {
 			R.id.Button04, R.id.Button05, R.id.Button06, R.id.Button07,
 			R.id.Button08, R.id.Button09, R.id.Button10 };
 	Timer progresTimer;
-	int s = 0;
+	int s = 100;
 	int m = 0;
 	int n = 1;
 	clickListener listener = new clickListener();
